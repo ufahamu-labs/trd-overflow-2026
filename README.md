@@ -5,6 +5,7 @@
 [![Sui Overflow 2026](https://img.shields.io/badge/Sui_Overflow-2026-4DA2FF)](https://overflow.sui.io/)
 [![Track](https://img.shields.io/badge/Track-DeFi_%26_Payments-111111)](https://overflow.sui.io/)
 [![Status](https://img.shields.io/badge/Status-MVP_in_progress-F5A623)](./strategic_roadmap.md)
+[![DeepSurge Application](https://img.shields.io/badge/DeepSurge-Application-6C5CE7)](https://www.deepsurge.xyz/projects/8ffda278-a437-4c33-83c0-78050fe9d009)
 
 > TRD lets worldwide investors invest in productive assets in East Africa,
 > starting with electric motorbikes, via the TRD Open-Ended Adaptive Debt
