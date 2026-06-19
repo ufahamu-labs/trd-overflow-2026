@@ -17,7 +17,7 @@
 > micro-entrepreneurs' real-world productivity from Bolt, and the lender's
 > aggregated loan book from their Loan Management System.
 
-TRD's first operating partner (borrower) is
+TRD's first demand side customer / operating partner / borrower is
 [Jiwambe](https://www.jiwambe.com/), a Nairobi-based asset-financing and
 fleet-management company with +1000 active electric motorcycles
 serving gig workers and micro-entrepreneurs.
