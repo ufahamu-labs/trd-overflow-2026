@@ -10,6 +10,11 @@
 #RWA #RiskMonitor #Sui #Nautilus #Walrus #PrivateCredit
 #ProductiveAssetFinance #EastAfrica #EmergingMarketYield #DeFi
 
+🌐 [therealdeal.app](https://therealdeal.app)
+🤖 [TRD Investor Relations AI assistant](https://notebooklm.google.com/notebook/a8373e01-acbf-4c33-bc84-8abdbe01adcc)
+📑 [Pitch deck](https://notebooklm.google.com/notebook/a8373e01-acbf-4c33-bc84-8abdbe01adcc)
+𝕏 [@therealdealhq](https://x.com/therealdealhq)
+
 > TRD lets worldwide investors invest in productive assets in East Africa,
 > starting with electric motorbikes, via the TRD Open-Ended Adaptive Debt
 > Facility. TRD provides the trust and accounting layer for private credit — a
