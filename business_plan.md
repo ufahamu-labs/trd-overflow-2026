@@ -121,7 +121,7 @@ weak security, yield propped up by token incentives, and loss discovered late. T
 inverts each: monitoring before capital, independent and continuous verification,
 security perfected over the receivables, real yield from asset productivity, and
 honesty about what can fail. Full reference:
-[Goldfinch post-mortem](../product/market_research/case_studies/rwa_protocols/goldfinch_post_mortem.md).
+[Goldfinch post-mortem](../../../../product/market_research/case_studies/rwa_protocols/goldfinch_post_mortem.md).
 
 ---
 
@@ -140,7 +140,7 @@ capital can move first.
 Primary: the crypto-native stablecoin allocator. Secondary: institutional/DFI
 credit, the originator/lender, the technologist, and — later, subject to
 regulation — the retail investor. Full definitions in
-[personas.md](./personas.md).
+[personas.md](../../../../investor_relations/personas.md).
 
 ### 7.3 Competitive landscape
 
