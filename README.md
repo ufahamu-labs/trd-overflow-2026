@@ -97,10 +97,16 @@ submission:
   this repository is not shared.
 
 This public repository contains the Overflow submission documents and an
-explanation of the selected Walrus and Nautilus test MVP, including the deployed
-Sui package reference. It does not contain the MVP implementation itself. The
-interactive facility model is publicly available and was built to help the
-first borrower understand and discuss the proposed facility.
+[explainer for the deployed Sui package ID](./deployed_package.md). It also
+references the separate
+[MVP Demo — Sui Overflow Hackathon 2026 repository](https://github.com/ufahamu-labs/mvp_demo_sui_overflow_hackaton_2026),
+which contains a reduced MVP prepared for the hackathon to explain TRD's trusted
+data pipeline.
+
+The
+[TRD Open-Ended Adaptive Debt Facility Interactive Model](https://therealdeal.app/docs/model)
+was built to help the first operating partner (borrower) understand and discuss
+the proposed facility.
 
 ## Links
 
