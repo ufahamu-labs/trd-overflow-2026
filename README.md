@@ -11,7 +11,7 @@
 #ProductiveAssetFinance #EastAfrica #EmergingMarketYield #DeFi
 
 🌐 [therealdeal.app](https://therealdeal.app)
-🤖 [TRD Investor Relations AI assistant](https://notebooklm.google.com/notebook/a8373e01-acbf-4c33-bc84-8abdbe01adcc)
+🤖 [TRD live Q&A chat assistant](https://notebooklm.google.com/notebook/a8373e01-acbf-4c33-bc84-8abdbe01adcc)
 📑 [Pitch deck](https://notebooklm.google.com/notebook/a8373e01-acbf-4c33-bc84-8abdbe01adcc)
 𝕏 [@therealdealhq](https://x.com/therealdealhq)
 
