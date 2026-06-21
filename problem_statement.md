@@ -116,50 +116,18 @@ are what was missing.
 
 ---
 
-## 5. Why it is solvable now
+## 5. What a credible solution must therefore do
 
-### 5.1 A trusted data pipeline only recently became buildable
-
-Moving sensitive operating data from third-party systems into a continuously
-verifiable form used to require inserting a new intermediary that itself had to be
-trusted. The components to avoid that — verifiable computation in trusted execution
-environments, programmable access control over credentials, and attested
-decentralized storage, anchored and settled on one programmable chain — have only
-recently matured together. For the first time, asset performance can be made
-independently inspectable without a new trusted middleman.
-
-### 5.2 The market shift
-
-The enabling technology is converging with a market shift: recent RWA failures have
-exposed the cost of weak monitoring; asset-level operating data is increasingly
-reachable through APIs; and stablecoin capital is actively searching for
-sustainable, real-economy yield.
+Close the verification gap at its root: turn independent, third-party operating data
+into a live, investor-readable view of portfolio performance — continuous rather than
+quarterly, and verifiable rather than self-reported — so an investor can underwrite
+and monitor the specific loan book in front of them instead of discounting a whole
+geography or staying out of the asset class.
 
 ---
 
-## 6. What a credible solution must therefore do
+## 6. The thesis in one sentence
 
-### 6.1 Independent, continuous, verifiable monitoring
-
-Turn independent third-party operating data into a live, investor-readable view of
-portfolio performance — continuous, not quarterly, and verifiable rather than
-self-reported.
-
-### 6.2 Security tied to the live loan book
-
-Protect the investor with a claim over the asset that actually produces their
-return — the outstanding loan receivables — rather than relying on physical
-collateral that is value-destructive to seize.
-
-### 6.3 Trust established before capital is committed
-
-Build and prove the monitoring and the protections *before* asking for committed
-capital, so trust rests on evidence rather than marketing.
-
----
-
-## 7. The thesis in one sentence
-
-**If TRD can make productive-asset performance independently visible, debt investors
-can fund the micro-asset lenders more directly — with fewer intermediaries, lower
-cost, and greater confidence.**
+**If productive-asset performance can be made independently visible, debt investors
+can fund micro-asset lenders more directly — with fewer intermediaries, lower cost,
+and greater confidence.**
