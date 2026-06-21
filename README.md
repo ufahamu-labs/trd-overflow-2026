@@ -15,6 +15,8 @@
 📑 [Pitch deck](https://notebooklm.google.com/notebook/a8373e01-acbf-4c33-bc84-8abdbe01adcc)
 𝕏 [@therealdealhq](https://x.com/therealdealhq)
 
+[![Watch the TRD Video](https://img.youtube.com/vi/tfkv-5SC8o4/maxresdefault.jpg)](https://youtu.be/tfkv-5SC8o4)
+
 > TRD lets worldwide investors invest in productive assets in East Africa,
 > starting with electric motorbikes, via the TRD Open-Ended Adaptive Debt
 > Facility. TRD provides the trust and accounting layer for private credit — a
